@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dark-rarity-405611",
+  "private_key_id": "a7ee63fa29f183611d49e6ffa7274be7ce10f68c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCKLWytIo+yWEsa\nJS55XB5hFH8mOQPK1VIPKNh2qJJWzTmZEtz61q8ZVlnzsznXUJz8RZA4dUGY473V\nYUTzgcUKkI+FitkC57LRoRqZR1PcI/+Klnbymxn+phoaOAifgPIjt/yXKR9YgRAl\nc07RoOBGyepNZCuwqQO3OIfl/N1TLf2tBWA7W/MI39eLeBt3HmfhL222qBoHepdo\nc+bP8goqLhCnZOYmUHWSaw6pR5oOC7zlBaLDmiW37QZ2Zq8SFqr8iR1QMWy8VO/V\nGGyzYfUmEr89i4D1Yk539M8Vp8Uaym8QFc58QHBcRCgQeqA83tr1diFSStnJ7xef\n1rNgcwvfAgMBAAECggEACJOxPz359XQNlV3heJ8DM7t1+QVo+toq8c3zQcpM6x5q\nCNpm5RsWW1hE1R+242qZk/8taJO+sqLQUcJr6UGQ3YsDnaJ0vf1r2B9L61/GENAb\nOJsGXyDJiEj/Lcl0n5H9dcIh57Ahxfic6/YwWkrGIR6/cHZbT+ft1x2nMdt0UYld\n7rwPijnt6c4T9jPQoJd9ao4QgKb70WhHWQUtXfUHg11AGEPD6WCgs+/gro11/bvr\nB9Cv2bA84bpTThzUR+nb7Zh7FLJfy2jopRZYzGSzPKadRGElCzfCwCEqzsKE/VQ2\nmEW8AmfIsvyeuz1CTF2XDnWLV/258q1fXWYT1uzqAQKBgQDAfMWE/TXSKC/I+o91\n2Ewzc31Iqfa6WNVUIOHslprdE9lg0CYZv4GD839spiqs532TQ+llM41rSJeDLeDq\nCTd7upIO5+iIMGnyS/1r3CyccOP21ZE1iuAXnYCf8Q4BfeKAJO9/biyjGBhw2Ope\nnhmL+iPpVlPWoVEzOkQOcnQYnwKBgQC3xSSHBiyqFQvS4/2dCUqnFaBU9RA+LcIp\nxicY/QdJwjVBfeSr25Km0v13UYPYj2cZCFVm8neMPw21GK/oewSzcgSbTAAdUrup\n1rLsh9Jxiwdkyb7MhqaXBH8TNOEEUI8UpWb7ugP/8IQ2mLpy2vBjnqZugtHjKit7\ngay+yzYEwQKBgEKgrcorz55wFKJPwKq89Rt2JW6qjmHQb/9P5oP7WZ2eykbNpfKR\nrGYdOgVEu07gTkJUZoyGPLRfCzr3/XtlN1RXr0kDkyTZBUM+dHkKXFLGbNI6+Kl8\n6bai6Svzx7JSfb13i4MjgsXtiEA/hVi9BwDB0/5nyFtpuW6vA3GwwmjnAoGBAJS5\nkQFRxu3zUHlhmIvxzCADCZoYJwgbYksKmfPIO5C/Avi42UsYzcwDb6yUJP8rt4Vz\n0CIb0xKGqSJKE3szrC9J9F52mJUisswV/QIePfs0SEySVb8SrloEAo/ZuM4UIGfW\nIM1S0w/caDQDUMnJVMlayVkguJp/M2emH9bdgR9BAoGANhh4htuiSzX9X+x0hS0H\ngOLdFPrBuYF6QkVgiSQ8K+sRYkcop7DmooiaonWtVPw/DM6nB9uQoh7dbcvquKn7\n9tu30YLS7Iy6nd+2/6lrqwbf0fvOhtbDal0S3TZje+QK6EfRc/TFEN9b8wtg53a0\ndtBjVG0PNvunz9ZGY8JSo+0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "unityservicedatascience@dark-rarity-405611.iam.gserviceaccount.com",
+  "client_id": "107095047966266731007",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/unityservicedatascience%40dark-rarity-405611.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
